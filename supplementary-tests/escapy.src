@@ -1,0 +1,3 @@
+.IPPcode23
+MOVE GF@counter string@ščěščě\032
+READ GF@counter int
